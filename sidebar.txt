@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tro:home|Door43 (tro)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tro|d43-tro repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tro/archive/master.zip|d43-tro.zip]]
+
+**Recent Changes**
+{{changes>ns = tro}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tro|Ethnologue data]]
+
